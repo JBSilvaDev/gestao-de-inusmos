@@ -47,4 +47,14 @@ Para uma utilização eficiente do aplicativo, leve em consideração as seguint
 
 ## Capturas de Tela
 
-Inserir aqui capturas de tela do aplicativo para proporcionar uma visão visual das funcionalidades e interface do usuário.
+>Home\
+![](./imgs/home.png)
+
+>Inventário\
+![](./imgs/inventario.jpeg)
+
+>Consumo\
+![](./imgs/consumo.png)
+
+>Recebimento\
+![](./imgs/recebimento.png)
